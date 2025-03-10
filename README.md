@@ -1,17 +1,14 @@
 # Global Energy Sustainability Analysis Project
 *A Decision Intelligence Approach to Understanding SDG 7*
 
-By: Nick Kennedy
-
 ## Executive Summary
-This project analyzes global energy security through the lens of UN Sustainable Development Goal 7 (SDG 7). Using comprehensive datasets from international organizations, we aim to identify patterns, predict trends, and recommend interventions to improve energy access, affordability, and sustainability worldwide. Our analysis integrates traditional statistical methods with advanced <mark>maybe...it's subjective</mark> machine learning techniques to uncover insights into energy production, carbon emissions, and consumer costs.
+This project analyzes global energy security through the lens of UN Sustainable Development Goal 7 (SDG 7). Using comprehensive datasets from international organizations, we aim to identify patterns, predict trends, and recommend interventions to improve energy access, affordability, and sustainability worldwide. Our analysis integrates traditional statistical methods with advanced machine learning techniques to uncover insights into energy production, carbon emissions, and consumer costs.
 
 [Read detailed background information here](Background.md)
 
 ## Key Performance Indicators (KPIs)
 
 1. **Carbon Intensity of Energy (CIE)**
-   - <mark>Consider adding a value statement to show you see the big picture...answer the "who cares?" question: for example: CIE enables comparisons between different energy sources (e.g., fossil fuels vs. renewables), highlighting which sources contribute more to carbon emissions and guiding energy transition strategies.  --- but, that said, I see you are doing this already in the background.  </mark>
    - Definition: Average CO₂ emissions per megawatt-hour (MWh) for each energy source.
    - Target: Reduce global average carbon intensity to below 100 kg CO₂/MWh by 2035.
    - Baseline: Current global average ~400 kg CO₂/MWh.
