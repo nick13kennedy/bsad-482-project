@@ -4,6 +4,19 @@
 ## Executive Summary
 This project analyzes global energy security through the lens of UN Sustainable Development Goal 7 (SDG 7). Using comprehensive datasets from international organizations, we aim to identify patterns, predict trends, and recommend interventions to improve energy access, affordability, and sustainability worldwide. Our analysis integrates traditional statistical methods with advanced machine learning techniques to uncover insights into energy production, carbon emissions, and consumer costs.
 
+## Table of Contents
+1. [Executive Summary](#executive-summary)
+
+2. [Background](#background)
+
+3. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+
+4. [Analysis of Key Performance Indicators (KPIs)](#analysis-of-key-performance-indicators-kpis)
+
+5. [Statistical Learning](#statistical-learning)
+
+6. [Conclusion](#conclusion)
+
 [Read detailed background information here](Background.md)
 
 ## Key Performance Indicators (KPIs)
