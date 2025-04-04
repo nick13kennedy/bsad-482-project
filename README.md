@@ -17,6 +17,8 @@ This project analyzes global energy security through the lens of UN Sustainable 
 
 6. [Conclusion](#conclusion)
 
+7. [References](#references)
+
 ## Background
 [Read detailed background information here](Background.md)
 
@@ -169,3 +171,10 @@ These insights underscore the importance of **scaling up renewable energy infras
 
 Ultimately, this project demonstrates how data-driven decision intelligence can support global progress toward **affordable, reliable, sustainable, and modern energy for all**.
 
+## References
+
+<a id="1">[1]</a> International Energy Agency. (n.d.) *Access to electricity – SDG7: Data and Projections – Analysis. IEA. Retrieved February 3, 2025, from*. [https://www.iea.org/reports/sdg7-data-and-projections/access-to-electricity](https://www.iea.org/reports/sdg7-data-and-projections/access-to-electricity).
+
+<a id="2">[2]</a> D-Carbonize. (n.d.). *Comparison of GHG emissions by sector: Which sectors pollute the most? D-Carbonize. Retrieved February 3, 2025, from*. [https://d-carbonize.eu/greenhouse-gases/comparison-ghg-emissions-sector/](https://d-carbonize.eu/greenhouse-gases/comparison-ghg-emissions-sector/).
+
+<a id="3">[3]</a> World Nuclear Association. (n.d.). *How can nuclear combat climate change? World Nuclear Association. Retrieved February 3, 2025, from*. [https://world-nuclear.org/nuclear-essentials/how-can-nuclear-combat-climate-change](https://world-nuclear.org/nuclear-essentials/how-can-nuclear-combat-climate-change)
