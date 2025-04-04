@@ -17,6 +17,7 @@ This project analyzes global energy security through the lens of UN Sustainable 
 
 6. [Conclusion](#conclusion)
 
+## Background
 [Read detailed background information here](Background.md)
 
 ## Key Performance Indicators (KPIs)
