@@ -11,7 +11,7 @@ This project analyzes global energy security through the lens of UN Sustainable 
 
 3. [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
 
-4. [Analysis of Key Performance Indicators (KPIs)](#analysis-of-key-performance-indicators-kpis)
+4. [Analysis of Key Performance Indicators (KPIs)](#analysis)
 
 5. [Statistical Learning](#statistical-learning)
 
