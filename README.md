@@ -41,20 +41,13 @@ This project analyzes global energy security through the lens of UN Sustainable 
 
 # Analysis
 
-![Water Scarcity](img/WaterScarcity.png)
-
-<a href="https://public.tableau.com/views/WaterScarcity_17394071173560/WaterStressLevel">
-    <img src="img/view-on-tableau-public.png" alt="View on Tableau Public" height="30" >
-</a>
-
-
 [Click to View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/nick.kennedy3795/viz/Milestone2_17415650894380/Dashboard1?publish=yes)
 
 ### **1. GHG Emissions Reduction by Renewable Energy Type** *(CIE KPI)*
 
 This visualization illustrates the greenhouse gas (GHG) emissions reduction achieved by each renewable energy type. Energy sources like Wind show significant potential for emissions reduction, highlighting their critical role in achieving sustainability targets. Lower-emission sources can guide strategic investments in cleaner energy infrastructures.
 
-![GHGEmissionsReduction](img/GHGEmissionsReductionbyRenewableEnergyType.png)(attachment:e41d5c67-9097-4a01-8d6f-e0a56169cec6:Screenshot_2025-03-09_at_9.13.47_PM.png)
+![GHGEmissionsReduction](img/GHGEmissionsReductionbyRenewableEnergyType.png)
 
 ---
 
@@ -62,7 +55,7 @@ This visualization illustrates the greenhouse gas (GHG) emissions reduction achi
 
 This chart displays how energy consumption has changed across various countries. Countries like Vietnam, United States, and United Kingdom show a sharp increase, indicating expanding energy access and affordability. Conversely, countries with low or declining consumption may highlight affordability challenges or limited access to reliable energy sources.
 
-![EnergyConsumptionChange](img/EnergyConsumptionChangebyCountry.png)(attachment:caf5933d-3f9c-42a6-9eb8-2ed8dd06d5f4:Screenshot_2025-03-09_at_9.13.55_PM.png)
+![EnergyConsumptionChange](img/EnergyConsumptionChangebyCountry.png)
 
 ---
 
