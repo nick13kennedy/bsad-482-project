@@ -47,8 +47,9 @@ This project analyzes global energy security through the lens of UN Sustainable 
 
 This visualization illustrates the greenhouse gas (GHG) emissions reduction achieved by each renewable energy type. Energy sources like Wind show significant potential for emissions reduction, highlighting their critical role in achieving sustainability targets. Lower-emission sources can guide strategic investments in cleaner energy infrastructures.
 
-![GHGEmissionsReductionbyRenewableEnergyType](img/GHGEmissionsReductionbyRenewableEnergyType)
-![Housing KPIs](img/KPIs.png)
+![GHG Emissions Reduction by Renewable Energy Type](img/.png)
+![CausalModel1](img/CausalModel1.png)
+
 ---
 
 ### **2. Energy Consumption Change by Country** *(EAI KPI)*
@@ -132,7 +133,9 @@ The visual graph of the causal relationships—developed using ICA LiNGAM and re
 
 **CausalModel: Energy System KPIs**
 
-[Causal Model]( /mnt/data/ Causal Model.png )
+![CausalModel1](img/CausalModel1.png)
+
+[Causal Model]( img/CausalModel.png )
 
 The model found a **moderate negative causal effect**, with the estimated impact of increasing energy production on LCOE being approximately **-0.0268**. This means that for each unit increase in energy production (MWh), the LCOE decreases by about 0.027 units, holding other influencing variables constant. This result confirms that **increased energy production volume directly contributes to reducing the per-unit cost of renewable energy**.
 
