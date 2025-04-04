@@ -47,7 +47,8 @@ This project analyzes global energy security through the lens of UN Sustainable 
 
 This visualization illustrates the greenhouse gas (GHG) emissions reduction achieved by each renewable energy type. Energy sources like Wind show significant potential for emissions reduction, highlighting their critical role in achieving sustainability targets. Lower-emission sources can guide strategic investments in cleaner energy infrastructures.
 
-![GHG Emissions](img/GHGEmissionsReductionbyRenewableEnergyType.png)
+![GHGEmissionsReductionbyRenewableEnergyType](img)
+![Housing KPIs](img/KPIs.png)
 ---
 
 ### **2. Energy Consumption Change by Country** *(EAI KPI)*
