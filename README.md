@@ -98,11 +98,11 @@ This visualization presents total gas production by country, serving as an indir
 ![GasProduction](img/GasProductionbyCountry.png)
 
 
-### Statistical Learning
+# Statistical Learning
 
 Building on the initial visual exploration of energy KPIs and performance trends, we applied advanced statistical learning techniques to better understand the underlying relationships between the five core KPIs. These methods provide deeper insights into potential interdependencies and help inform data-driven recommendations for improving global energy sustainability.
 
-### **Correlation Matrix Heatmap**
+## **Correlation Matrix Heatmap**
 
 We first constructed two separate correlation matrices using Python to identify linear relationships between the KPIs. These heatmaps offer a high-level overview of which indicators tend to move together and may influence one another. Each matrix was based on a different dataset used in our analysis.
 
@@ -110,7 +110,7 @@ We first constructed two separate correlation matrices using Python to identify 
 ![CorrelationMatrix](img/CorrelationMatrix.png)
 
 
-### **Correlation Matrix Insights**
+###**Correlation Matrix Insights**
 
 ---
 
@@ -138,7 +138,7 @@ Based on these observations, causal models were developed, tested, validated, an
 
 A Causal Inference model was created to further investigate this:
 
-### Estimated Causal Effect of Energy Production Volume on Levelized Cost of Energy (LCOE)
+## Estimated Causal Effect of Energy Production Volume on Levelized Cost of Energy (LCOE)
 
 A CausalModel was developed to analyze the effect of **energy production volume** on the **Levelized Cost of Energy (LCOE)**—a critical metric in evaluating the affordability and scalability of renewable energy systems. LCOE represents the per-unit cost of building and operating an energy-generating asset over its lifetime, making it essential for understanding how capital investment and infrastructure scale influence the cost of clean energy.
 
@@ -155,7 +155,7 @@ The model found a **moderate negative causal effect**, with the estimated impact
 To validate this result, the causal model was **refuted using two robust methods**: adding a random common cause and using a subset of the data. In both cases, the effect estimate remained nearly identical and statistically strong, with p-values of **0.94 and 0.92**, respectively—indicating a **high degree of confidence** in the model’s validity and reliability.
 
 
-### **Conclusion**
+# **Conclusion**
 
 This project has examined the state of global energy sustainability through the lens of **United Nations Sustainable Development Goal 7 (Affordable and Clean Energy)**. By leveraging open-source international datasets and applying a combination of visual analytics and advanced statistical learning techniques, we explored how global energy systems are influenced by a complex web of interconnected factors—ranging from carbon emissions and renewable energy production to affordability and accessibility.
 
@@ -171,7 +171,7 @@ These insights underscore the importance of **scaling up renewable energy infras
 
 Ultimately, this project demonstrates how data-driven decision intelligence can support global progress toward **affordable, reliable, sustainable, and modern energy for all**.
 
-## References
+# References
 
 <a id="1">[1]</a> International Energy Agency. (n.d.) *Access to electricity – SDG7: Data and Projections – Analysis. IEA. Retrieved February 3, 2025, from*. [https://www.iea.org/reports/sdg7-data-and-projections/access-to-electricity](https://www.iea.org/reports/sdg7-data-and-projections/access-to-electricity).
 
