@@ -47,14 +47,14 @@ This project analyzes global energy security through the lens of UN Sustainable 
 
 This visualization illustrates the greenhouse gas (GHG) emissions reduction achieved by each renewable energy type. Energy sources like Wind show significant potential for emissions reduction, highlighting their critical role in achieving sustainability targets. Lower-emission sources can guide strategic investments in cleaner energy infrastructures.
 
-![GHG Emissions]( /mnt/data/GHG Emissions Reduction by Renewable Energy Type.png )
+[GHG Emissions]( /mnt/data/GHG Emissions Reduction by Renewable Energy Type.png )
 ---
 
 ### **2. Energy Consumption Change by Country** *(EAI KPI)*
 
 This chart displays how energy consumption has changed across various countries. Countries like Vietnam, United States, and United Kingdom show a sharp increase, indicating expanding energy access and affordability. Conversely, countries with low or declining consumption may highlight affordability challenges or limited access to reliable energy sources.
 
-![Energy Consumption]( /mnt/data/Energy Consumption Change by Country.png )
+[Energy Consumption]( /mnt/data/Energy Consumption Change by Country.png )
 
 ---
 
@@ -62,7 +62,7 @@ This chart displays how energy consumption has changed across various countries.
 
 This pie chart breaks down the share of total energy production by each renewable type. Wind dominates the energy mix, while other sources like Wave have smaller shares. This insight can inform policy focus and investment to encourage a more diversified and sustainable energy portfolio. 
 
-![Energy Share]( /mnt/data/Share of Energy Production by Renewable Type.png )
+[Energy Share]( /mnt/data/Share of Energy Production by Renewable Type.png )
 
 ---
 
@@ -70,7 +70,7 @@ This pie chart breaks down the share of total energy production by each renewabl
 
 This chart showcases the initial investment required for each type of renewable energy. Wind demands the largest upfront investment, while Wave is relatively more affordable. Understanding these costs is crucial for making informed decisions on future energy projects.
 
-![Initial Investment]( /mnt/data/Initial Investment by Renewable Energy Typ.png )
+[Initial Investment]( /mnt/data/Initial Investment by Renewable Energy Typ.png )
 
 ---
 
@@ -78,7 +78,7 @@ This chart showcases the initial investment required for each type of renewable 
 
 This visualization presents total gas production by country, serving as an indirect indicator of energy access. Higher production in countries like United States suggests greater access and infrastructure development, whereas lower consumption in Belarus may indicate limited access or affordability constraints.
 
-![Gas Production]( /mnt/data/Gas Production by Country.png )
+[Gas Production]( /mnt/data/Gas Production by Country.png )
 
 
 ### Statistical Learning
@@ -90,7 +90,7 @@ Building on the initial visual exploration of energy KPIs and performance trends
 We first constructed two separate correlation matrices using Python to identify linear relationships between the KPIs. These heatmaps offer a high-level overview of which indicators tend to move together and may influence one another. Each matrix was based on a different dataset used in our analysis.
 
 
-![Correlation Matrix]( /mnt/data/Correlation Matrix.png )
+[Correlation Matrix]( /mnt/data/Correlation Matrix.png )
 
 
 ### **Correlation Matrix Insights**
@@ -131,7 +131,7 @@ The visual graph of the causal relationships—developed using ICA LiNGAM and re
 
 **CausalModel: Energy System KPIs**
 
-![Causal Model]( /mnt/data/ Causal Model.png )
+[Causal Model]( /mnt/data/ Causal Model.png )
 
 The model found a **moderate negative causal effect**, with the estimated impact of increasing energy production on LCOE being approximately **-0.0268**. This means that for each unit increase in energy production (MWh), the LCOE decreases by about 0.027 units, holding other influencing variables constant. This result confirms that **increased energy production volume directly contributes to reducing the per-unit cost of renewable energy**.
 
