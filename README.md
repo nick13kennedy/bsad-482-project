@@ -41,13 +41,6 @@ This project analyzes global energy security through the lens of UN Sustainable 
 
 # Analysis
 
-![Water Scarcity](img/WaterScarcity.png)
-
-<a href="https://public.tableau.com/views/WaterScarcity_17394071173560/WaterStressLevel">
-    <img src="img/view-on-tableau-public.png" alt="View on Tableau Public" height="30" >
-</a>
-
-
 [Click to View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/nick.kennedy3795/viz/Milestone2_17415650894380/Dashboard1?publish=yes)
 
 ### **1. GHG Emissions Reduction by Renewable Energy Type** *(CIE KPI)*
